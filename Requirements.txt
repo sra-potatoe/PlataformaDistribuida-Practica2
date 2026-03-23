@@ -1,0 +1,28 @@
+# === Framework Web ===
+fastapi
+uvicorn[standard]
+
+# === Criptografía ===
+pycryptodome
+python-jose[cryptography]
+cryptography
+
+# === HTTP ===
+aiohttp
+httpx
+
+# === Bases de Datos Relacionales ===
+sqlalchemy
+psycopg2-binary
+pymysql
+pyodbc
+
+# === Bases de Datos NoSQL ===
+pymongo
+firebase-admin
+neo4j
+
+# === Utilidades ===
+apscheduler
+python-dotenv
+pydantic
